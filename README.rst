@@ -132,6 +132,35 @@ becoming a sponsor via `GitHub <https://github.com/sponsors/giampaolo>`__,
 `PayPal <https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A9ZS7PKKRM3S8>`__.
 Sponsors can have their logo displayed here and in the psutil `documentation <https://psutil.readthedocs.io>`__.
 
+Projects using psutil
+=====================
+
+psutil is one of the `top 100
+<https://clickpy.clickhouse.com/dashboard/psutil>`__ most-downloaded packages
+on PyPI, with `760,000+ dependent GitHub repositories
+<https://github.com/giampaolo/psutil/network/dependents>`__ and 14,000+
+dependent packages. Some notable projects using psutil:
+
+- |rm-tensorflow| `TensorFlow <https://github.com/tensorflow/tensorflow>`__
+- |rm-pytorch| `PyTorch <https://github.com/pytorch/pytorch>`__
+- |rm-transformers| `HuggingFace Transformers <https://github.com/huggingface/transformers>`__
+- |rm-keras| `Keras <https://github.com/keras-team/keras>`__
+- |rm-ultralytics| `Ultralytics (YOLO) <https://github.com/ultralytics/ultralytics>`__
+- |rm-homeassistant| `Home Assistant <https://github.com/home-assistant/core>`__
+- |rm-ansible| `Ansible <https://github.com/ansible/ansible>`__
+- |rm-airflow| `Apache Airflow <https://github.com/apache/airflow>`__
+- |rm-sentry| `Sentry <https://github.com/getsentry/sentry>`__
+- |rm-celery| `Celery <https://github.com/celery/celery>`__
+- |rm-scrapy| `Scrapy <https://github.com/scrapy/scrapy>`__
+- |rm-streamlit| `Streamlit <https://github.com/streamlit/streamlit>`__
+- |rm-dask| `Dask <https://github.com/dask/dask>`__
+- |rm-glances| `Glances <https://github.com/nicolargo/glances>`__
+- |rm-bpytop| `bpytop <https://github.com/aristocratos/bpytop>`__
+- |rm-grr| `GRR <https://github.com/google/grr>`__
+- |rm-psleak| `psleak <https://github.com/giampaolo/psleak>`__
+
+`Full list <https://psutil.readthedocs.io/adoption>`__.
+
 Example usages
 ==============
 
@@ -469,35 +498,6 @@ Windows services
      'start_type': 'manual',
      'status': 'stopped',
      'username': 'NT AUTHORITY\\LocalService'}
-
-Projects using psutil
-=====================
-
-psutil is one of the `top 100
-<https://clickpy.clickhouse.com/dashboard/psutil>`__ most-downloaded packages
-on PyPI, with `760,000+ dependent GitHub repositories
-<https://github.com/giampaolo/psutil/network/dependents>`__ and 14,000+
-dependent packages. Some notable projects using psutil:
-
-- |rm-tensorflow| `TensorFlow <https://github.com/tensorflow/tensorflow>`__
-- |rm-pytorch| `PyTorch <https://github.com/pytorch/pytorch>`__
-- |rm-transformers| `HuggingFace Transformers <https://github.com/huggingface/transformers>`__
-- |rm-keras| `Keras <https://github.com/keras-team/keras>`__
-- |rm-ultralytics| `Ultralytics (YOLO) <https://github.com/ultralytics/ultralytics>`__
-- |rm-homeassistant| `Home Assistant <https://github.com/home-assistant/core>`__
-- |rm-ansible| `Ansible <https://github.com/ansible/ansible>`__
-- |rm-airflow| `Apache Airflow <https://github.com/apache/airflow>`__
-- |rm-sentry| `Sentry <https://github.com/getsentry/sentry>`__
-- |rm-celery| `Celery <https://github.com/celery/celery>`__
-- |rm-scrapy| `Scrapy <https://github.com/scrapy/scrapy>`__
-- |rm-streamlit| `Streamlit <https://github.com/streamlit/streamlit>`__
-- |rm-dask| `Dask <https://github.com/dask/dask>`__
-- |rm-glances| `Glances <https://github.com/nicolargo/glances>`__
-- |rm-bpytop| `bpytop <https://github.com/aristocratos/bpytop>`__
-- |rm-grr| `GRR <https://github.com/google/grr>`__
-- |rm-psleak| `psleak <https://github.com/giampaolo/psleak>`__
-
-`Full list <https://psutil.readthedocs.io/adoption>`__.
 
 Portings
 ========
